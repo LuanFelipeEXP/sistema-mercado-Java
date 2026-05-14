@@ -1,18 +1,15 @@
-## Getting Started
+# sistema-mercado-Java
+Projeto simples em Java para estudo e aprendizado de Programação Orientada a Objetos
+## Funcionalidades até o momento (14/05/26)
+- Cadastro e listagem de produtos
+- Controle de estoque
+- Busca de produtos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Tecnologias usadas
+- Java
+- ArrayList
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Futuras implementações
+- Cadastro e listagem de clientes
+- Sistema de vendas
+- Integração com banco de dados MySQL
